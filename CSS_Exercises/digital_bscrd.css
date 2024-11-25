@@ -1,6 +1,7 @@
 *{
     background-color: #1A1B21;
     color: white;
+    font-family: Inter;
 }
 h1{
     color: white;
@@ -40,8 +41,8 @@ h4{
 }
 section{
     font-size: 12px;
-    padding-left: 500px;
-    padding-right: 500px;
+    margin-left: 500px;
+    margin-right: 500px;
     text-align: left;
 }
 footer{
