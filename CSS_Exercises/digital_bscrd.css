@@ -1,0 +1,52 @@
+*{
+    background-color: black;
+    color: white;
+
+}
+h1{
+    color: white;
+}
+.head{
+    text-align: center;
+}
+h2{
+    color: #f3bf99; 
+    font-size: 18px;
+}
+h3{
+ color: white;
+ font-size: 12px;
+}
+.email-button{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: white;
+    color: black;
+    padding: 10px 40px;
+    border-radius: 6px;
+}
+.linkedin-button{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #5093E2;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 6px;
+}
+h4{
+    color: white;
+    font-size: 20px;
+    text-align: left;
+}
+section{
+    font-size: 12px;
+    padding-left: 500px;
+    padding-right: 500px;
+    text-align: left;
+}
+footer{
+    font-size: 12px;
+    padding-top: 40px;
+    padding-left: 500px;
+    padding-right: 500px;
+    padding-bottom: 0px;
+    text-align: center;
+}
