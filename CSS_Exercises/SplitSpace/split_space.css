@@ -1,0 +1,65 @@
+body {
+ color: #787878;
+ background-color: #fbfbfb;
+}
+.para{
+    padding-left: 300px;
+    margin-top: 300px;
+    margin-bottom: 0;
+    color: #787878;
+}
+.firstDiv {
+    background-color: #F28D00;
+    color: white;
+    margin-left: 300px;
+    margin-right: 300px;
+    text-align: center;
+    margin-bottom: 0;
+}
+.secondDiv{
+    background-color: #F5F5F5;
+    color: #787878;
+    margin-top: 0;
+    margin-left: 300px;
+    margin-right: 300px;
+    text-align: left;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-bottom: 200px;
+}
+h1{
+    color: #F28D00;
+}
+#button{
+    padding: 10px 150px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: small;
+    text-align: left;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+    background-color: #ffffff;
+    border: none;
+}
+.btn {
+    padding: 10px 30px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-size: small;
+    text-align: left;
+    border-radius: 20px;
+    background-color: #F28D00;
+    border: none;
+    color: #ffffff;
+}
+.thirdDiv{
+    background-color: white;
+    color: #000000;
+    margin-top: 0;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 300px;
+    text-align: center;
+    padding-bottom: 40px;
+    padding-top: 20px;
+}

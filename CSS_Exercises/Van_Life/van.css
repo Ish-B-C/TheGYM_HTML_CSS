@@ -16,6 +16,8 @@ body{
 .myImg{
     display: block;
     margin: auto;
+    height: 1000px;
+    width: 1000px;
 }
 .firstButton{
     color: white;
