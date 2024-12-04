@@ -27,10 +27,55 @@ body{
     padding-bottom: 20px;
 }
 .secondDiv{
-    margin: 20px;
-    display: flex; 
-    align-items: center;
-    flex-direction: row;
+  margin: 20px;
+  padding-right: 400px;
+  line-height: 1;
+
 }
+#btn{
+    padding: 6px 8px;
+    border: none;
+    border-radius: 6px;
+    background-color: rgb(46, 51, 61);
+    color: white;
+}
+.thirdDiv{
+    position: absolute;
+    top: 400px;
+    left: 650px;
 
-
+}
+.fourthDiv{
+    text-align: center;
+    padding-top: 200px;
+    padding-left: 80px;
+    padding-right: 80px;
+    line-height: 1;
+}
+.listSec{
+    display: flex;
+    list-style: none;
+    text-align: center;
+}
+.listSec li{
+    padding-right: 70px;
+    font-weight: bold;
+    padding-top: 20px;
+}
+.fifthDev{
+    padding-top: 30px;
+    text-align: center;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+#parano{
+    font-size: 10px;
+}
+#img{
+    height: 40px;
+    width: 40px;
+    padding: 20px;
+}
+#parayes{
+    font-weight: bold;
+}
